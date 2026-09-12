@@ -42,4 +42,4 @@ A simple To-Do List Android application developed using Java, XML, and SQLite.
 
 ## Author
 
-Your Name
+Asin rose ov

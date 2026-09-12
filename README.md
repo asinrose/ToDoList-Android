@@ -30,7 +30,8 @@ A simple To-Do List Android application developed using Java, XML, and SQLite.
 
 ## Screenshots
 
-_Add screenshots of the application here._
+<img width="296" height="618" alt="image" src="https://github.com/user-attachments/assets/db42b427-738d-4de8-8ecd-91b20a7d5497" />
+
 
 ## How to Run
 
